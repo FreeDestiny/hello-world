@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi,kind stranger!I'am Destiny.It's my pleasure to meet you here!
